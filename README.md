@@ -1,3 +1,2 @@
 # hello-world
-This is my first repository
-Hello guys. This is KarenJ here. Birmingham today has a beautiful sunset.
+This is my first repository. Hello! My name is Kaiwen Jiang, I also use name as KarenJ or KarenJ4202.
